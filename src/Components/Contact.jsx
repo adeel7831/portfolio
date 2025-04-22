@@ -13,7 +13,7 @@ return(
             </div>
            
            <div className="md:w-1/3  flex md:justify-center">
-                <a href="https://wa.me/03184262006"  target="_blank">
+                <a href="https://wa.me/+923184262006"  target="_blank">
                     <div className="flex gap-1 items-center">
                         <img className="size-[30px]" src={wa_logo} alt="" />
                         <span className="text-[#00FF7F] hover:underline">+923184262006</span>
